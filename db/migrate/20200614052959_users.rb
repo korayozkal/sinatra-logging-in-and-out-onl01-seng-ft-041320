@@ -6,3 +6,4 @@ class Users < ActiveRecord::Migration[5.1]
         t.decimal :balance
   end
 end
+end
